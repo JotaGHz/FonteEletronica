@@ -3,19 +3,19 @@ Projeto Fonte de Tensão 12V, Eletronica para Computacao, BCC 020. ICMC USP São
 Grupo:
   Joao Francisco Caprioli Barbosa Camargo de Pinho
   
-  #Simulacão do Falstad
+  # Simulacão do Falstad
   
   http://tinyurl.com/y7am3f7x
   
-  ##Imagem da Simulacão
+  ## Imagem da Simulacão
   
-  #Componentes usados e precos
+  # Componentes usados e precos
   
-  #Arquivos do circuito e de impressão
+  # Arquivos do circuito e de impressão
   
   
   
-  #Apresentacão
+  # Apresentacão
   
 Turma BCC 020
 Disciplina: SSC0180-Eletronica para Computacao
