@@ -6,6 +6,8 @@ Grupo:
   
 Turma BCC 020
 Disciplina: SSC0180-Eletronica para Computacao
+Tabela com os precos:
 
 
-Link para Simulação:http://tinyurl.com/yb99zmcf
+
+Link para Simulação:http://tinyurl.com/yboacdwq
