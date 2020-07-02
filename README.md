@@ -23,9 +23,9 @@ Nesse projeto, o grupo deve desenvolver uma fonte de Tensão Variável de 3V a 1
     LED Vermelho                     R$  0,24
     Diodo Zener 13V     MAX=0,5W     R$  0,14
     Ponte Retificadora   25A         R$  4,94
-    
+    Transistor NPN BC337             R$  0,17
     -----------------------------------------
-    Total                            R$ 24,11
+    Total                            R$ 24,28
   # Explicação das peças escolhidas
 
 ## Transformador 127V para 24V
