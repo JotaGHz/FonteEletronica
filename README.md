@@ -37,8 +37,8 @@ Nesse projeto, o grupo deve desenvolver uma fonte de Tensão Variável de 3V a 1
 ## Capacitor 470uF
   O capacitor "estabiliza" a tensão de 24V. O capacitor serve para manter a corrente estável quando ela alternar. Esse capacitor tem tensão máxima suportada de 35V, sendo perfeito para o circuito. Sem o capacitor, a tensão varia muito, e poderia queimar aparelhos conectados à fonte.
 
-## LED Vermelho e Resistor 100 Ohms
-  O LED Vermelho se conecta em paralelo com o capacitor. Sem nenhum resistor, o LED "quebraria" o circuito e causaria um curto-circuito, conectando os polos positivo e negativo. O uso de 100 Ohms no resistor é para não baixar muito o brilho do LED e ser um resistor barato.
+## LED Vermelho e Resistor 2k
+  O LED Vermelho se conecta em paralelo com o capacitor. Sem nenhum resistor, o LED "quebraria" o circuito e causaria um curto-circuito, conectando os polos positivo e negativo. O uso de 2k Ohms é para diminuir a corrente gasta pelo LED, e ser um resistor fácil de construir em série com 2 resistores 1k.
   
 ## Diodo Zener
   O Diodo Zener serve para "separar" a voltagem do circuito. Sendo um Diodo Zener de 13V, ele só deixa aproximadamente 13V irem para o potenciômetro e para o resistor 5.1k do circuito.
