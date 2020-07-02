@@ -29,8 +29,8 @@ Nesse projeto, o grupo deve desenvolver uma fonte de Tensão Variável de 3V a 1
     Total                            R$ 43,65
   # Explicação das peças escolhidas
 
-## Transformador 220V para 24V
-  O transformador é necessário para diminuir a voltagem que passa pelo circuito. Um transformador 5:1, ou seja de 220V para 24V, facilitou a escolha das outras peças, e deu uma margem de erro grande para o resto do circuito.
+## Transformador 127V para 24V
+  O transformador é necessário para diminuir a voltagem que passa pelo circuito. Um transformador 5:1, ou transforma 127V em cerca de 24V, facilitou a escolha das outras peças, e deu uma margem de erro grande para o resto do circuito.
 
 ## Ponte Retificadora
   A ponte retificadora serve pra "converter" a corrente alternada em corrente contínua, gerando um polo positivo em cima e um negativo em baixo, olhando para o circuito no Falstad.
@@ -62,7 +62,7 @@ Nesse projeto, o grupo deve desenvolver uma fonte de Tensão Variável de 3V a 1
   # Apresentação
   
   Vídeo:
-  
+  https://www.youtube.com/watch?v=LuaJpIQDwXM
   
   # Turma BCC 020
   # Disciplina: SSC0180-Eletrônica para Computação
