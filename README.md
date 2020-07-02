@@ -1,7 +1,11 @@
 # Projeto Fonte de Tensão 12V, Eletrônica para Computação, BCC 020. ICMC USP São Carlos
 ## Grupo:
   ## Joao Francisco Caprioli Barbosa Camargo de Pinho
-  
+  ## 10748500
+## O Projeto
+Nesse projeto, o grupo deve desenvolver uma fonte de Tensão Variável de 3V a 12V, com capacidade de 100mA. Também, deve anexar ao projeto no GitHub o circuito no site de simulação Falstad, uma imagem do circuito no site, e uma simulação do projeto no EAGLE, junto com a simulação da placa do circuito.
+
+
   # Simulacão do Falstad
   
   http://tinyurl.com/y78vo6qq
@@ -32,7 +36,7 @@
   A ponte retificadora serve pra "converter" a corrente alternada em corrente contínua, gerando um polo positivo em cima e um negativo em baixo, olhando para o circuito no Falstad.
 
 ## Capacitor 470uF
-  O capacitor "estabiliza" a tensão de 24V. Esse capacitor tem tensão máxima suportada de 35V, sendo perfeito para o circuito. Sem o capacitor, a tensão varia muito, e poderia queimar aparelhos conectados à fonte.
+  O capacitor "estabiliza" a tensão de 24V. O capacitor serve para manter a corrente estável quando ela alternar. Esse capacitor tem tensão máxima suportada de 35V, sendo perfeito para o circuito. Sem o capacitor, a tensão varia muito, e poderia queimar aparelhos conectados à fonte.
 
 ## LED Vermelho e Resistor 100 Ohms
   O LED Vermelho se conecta em paralelo com o capacitor. Sem nenhum resistor, o LED "quebraria" o circuito e causaria um curto-circuito, conectando os polos positivo e negativo. O uso de 100 Ohms no resistor é para não baixar muito o brilho do LED e ser um resistor barato.
@@ -44,7 +48,7 @@
   O Potenciômetro serve para o usuário regular a tensão entre 3V e 12V. O potenciômetro de 10k foi escolhido por ser facilmente encontrado e relativamente barato. Por conta do valor do potênciometro, o resistor 5.1k "estabiliza" a voltagem, tal qual o capacitor. Foi escolhido esse resistor por conta do preço.
   
 ## Transistor NPN
-  O transistor mantém estável a tensão dada pelo potenciômetro, tirando apenas 0.7V, transformando os 13V dados pelo Diodo Zener em 12.3V, com certas oscilações.
+  O transistor permite a passagem da corrente para a saída, quando a tensão nele chega a 13V, tirando apenas 0.7V, transformando os 13V dados pelo Diodo Zener em 12.3V, com pequenas oscilações.
   # Arquivos do circuito e de impressão
   
   ![Esquemático do EAGLE](https://github.com/JotaGHz/FonteEletronica/blob/master/schem.png)
@@ -57,6 +61,8 @@
   
   # Apresentação
   
-Turma BCC 020
-Disciplina: SSC0180-Eletrônica para Computaçãoo
-Disciplina: SSC0180-Eletronica para Computacao
+  Vídeo:
+  
+  
+  # Turma BCC 020
+  # Disciplina: SSC0180-Eletrônica para Computação
