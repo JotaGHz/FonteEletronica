@@ -16,8 +16,7 @@ Nesse projeto, o grupo deve desenvolver uma fonte de Tensão Variável de 3V a 1
     
     Capacitor 470 uF  25V            R$  0,33
     Transformador 110/220V -> 12+12V R$ 16,45
-    Resistor 100 Ohms                R$  0,14
-    Resistor 1k                      R$  0,08
+    Resistor 1k *3                   R$  0,24
     Resistor 120 Ohms                R$  0,23
     Resistor 5k1                     R$  0,08
     Potenciômetro 10k   MAX=0,2W     R$  1,46
@@ -26,7 +25,7 @@ Nesse projeto, o grupo deve desenvolver uma fonte de Tensão Variável de 3V a 1
     Ponte Retificadora   25A         R$  4,94
     
     -----------------------------------------
-    Total                            R$ 24,09
+    Total                            R$ 24,11
   # Explicação das peças escolhidas
 
 ## Transformador 127V para 24V
