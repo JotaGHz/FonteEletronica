@@ -14,19 +14,19 @@ Nesse projeto, o grupo deve desenvolver uma fonte de Tensão Variável de 3V a 1
   ![Imagem da simulação no Falstad](https://github.com/JotaGHz/FonteEletronica/blob/master/Falstad.png)
   # Componentes usados e preços
     
-    Capacitor 470 uF                 R$  0,33
-    Transformador 220V -> 24V        R$ 36,01
+    Capacitor 470 uF  25V            R$  0,33
+    Transformador 110/220V -> 12+12V R$ 16,45
     Resistor 100 Ohms                R$  0,14
     Resistor 1k                      R$  0,08
     Resistor 120 Ohms                R$  0,23
     Resistor 5k1                     R$  0,08
-    Potenciômetro 10k                R$  1,46
+    Potenciômetro 10k   MAX=0,2W     R$  1,46
     LED Vermelho                     R$  0,24
-    Diodo Zener 13V                  R$  0,14
+    Diodo Zener 13V     MAX=0,5W     R$  0,14
     Ponte Retificadora   25A         R$  4,94
     
     -----------------------------------------
-    Total                            R$ 43,65
+    Total                            R$ 24,09
   # Explicação das peças escolhidas
 
 ## Transformador 127V para 24V
