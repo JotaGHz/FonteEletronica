@@ -48,7 +48,12 @@
   # Arquivos do circuito e de impressão
   
   ![Esquemático do EAGLE](https://github.com/JotaGHz/FonteEletronica/blob/master/schem.png)
+  
+  Esquemático simples do EAGLE, usado para fazer a placa de circuito na imagem seguinte:
+  
   ![PCB do Circuito no EAGLE](https://github.com/JotaGHz/FonteEletronica/blob/master/PCB.png)
+  
+  Imagem do PCB do circuito, usado para construir o circuito pessoalmente.
   
   # Apresentação
   
