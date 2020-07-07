@@ -8,10 +8,10 @@ Nesse projeto, o grupo deve desenvolver uma fonte de Tensão Variável de 3V a 1
 
   # Simulacão do Falstad
   
-  http://tinyurl.com/y78vo6qq
+  http://tinyurl.com/ydexx9xs
   
   ## Imagem da Simulação
-  ![Imagem da simulação no Falstad](https://github.com/JotaGHz/FonteEletronica/blob/master/Falstad.png)
+  ![Imagem da simulação no Falstad](https://github.com/JotaGHz/FonteEletronica/blob/master/falstad.png)
   # Componentes usados e preços
     
     Capacitor 470 uF  25V            R$  0,33
@@ -54,7 +54,7 @@ Nesse projeto, o grupo deve desenvolver uma fonte de Tensão Variável de 3V a 1
   
   Esquemático simples do EAGLE, usado para fazer a placa de circuito na imagem seguinte:
   
-  ![PCB do Circuito no EAGLE](https://github.com/JotaGHz/FonteEletronica/blob/master/PCB.png)
+  ![PCB do Circuito no EAGLE](https://github.com/JotaGHz/FonteEletronica/blob/master/pcb.png)
   
   Imagem do PCB do circuito, usado para construir o circuito pessoalmente.
   
