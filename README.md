@@ -59,7 +59,7 @@ Nesse projeto, o grupo deve desenvolver uma fonte de Tensão Variável de 3V a 1
   Imagem do PCB do circuito, usado para construir o circuito pessoalmente.
   
   # Apresentação
-  
+  ## Nota: O resistor de 100 Ohms acima do LED foi substituido por dois resistores de 1k em série, que no Falstad estão representados por um resistor 2k.
   Vídeo:
   https://www.youtube.com/watch?v=LuaJpIQDwXM
   
