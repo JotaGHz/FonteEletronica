@@ -54,7 +54,7 @@ Nesse projeto, o grupo deve desenvolver uma fonte de Tensão Variável de 3V a 1
   
   Esquemático simples do EAGLE, usado para fazer a placa de circuito na imagem seguinte:
   
-  ![PCB do Circuito no EAGLE](https://github.com/JotaGHz/FonteEletronica/blob/master/pcb.png)
+  ![PCB do Circuito no EAGLE](https://github.com/JotaGHz/FonteEletronica/blob/master/PCB.png)
   
   Imagem do PCB do circuito, usado para construir o circuito pessoalmente.
   
